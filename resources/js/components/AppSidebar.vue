@@ -114,7 +114,7 @@ const mainNavItems: NavItem[] = [
 const footerNavItems: NavItem[] = [
     {
         title: 'Github (Loyihamiz)',
-        href: '',
+        href: 'https://github.com/MexriddinDev/Classic-Crypto',
         icon: Shield,
     },
 ];

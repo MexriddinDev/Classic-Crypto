@@ -83,7 +83,7 @@ const breadcrumbs: BreadcrumbItem[] = [
                         <!-- 1 -->
                         <div class="group bg-white dark:bg-gray-800 rounded-3xl shadow-xl overflow-hidden hover:shadow-2xl transition-all duration-500 hover:-translate-y-3">
                             <div class="relative h-64 bg-gradient-to-br from-teal-400 to-cyan-600">
-                                <img src="/storage/team/jamshid.jpg" alt="Xamidov Jamshid" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700" />
+                                <img src="/storage/team/jamshid.jpg" alt="Xamidov Jamshid" class="w-full h-full object-contain bg-white p-4 rounded-t-3xl" />
                                 <div class="absolute inset-0 bg-black/40 group-hover:bg-black/60 transition-colors"></div>
                             </div>
                             <div class="p-8 text-center">
@@ -95,7 +95,7 @@ const breadcrumbs: BreadcrumbItem[] = [
                         <!-- 2 -->
                         <div class="group bg-white dark:bg-gray-800 rounded-3xl shadow-xl overflow-hidden hover:shadow-2xl transition-all duration-500 hover:-translate-y-3">
                             <div class="relative h-64 bg-gradient-to-br from-purple-400 to-pink-600">
-                                <img src="/storage/team/samandar.jpg" alt="Najmiddinov Samandar" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700" />
+                                <img src="/storage/team/samandar.jpg" alt="Najmiddinov Samandar" class="w-full h-full object-contain bg-white p-4 rounded-t-3xl" />
                                 <div class="absolute inset-0 bg-black/40 group-hover:bg-black/60 transition-colors"></div>
                             </div>
                             <div class="p-8 text-center">
@@ -131,7 +131,11 @@ const breadcrumbs: BreadcrumbItem[] = [
                         <!-- 5 -->
                         <div class="group bg-white dark:bg-gray-800 rounded-3xl shadow-xl overflow-hidden hover:shadow-2xl transition-all duration-500 hover:-translate-y-3">
                             <div class="relative h-64 bg-gradient-to-br from-rose-400 to-pink-600">
-                                <img src="/storage/team/firdavs.jpg" alt="Mirxonov Firdavs" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700" />
+                                <img
+                                    src="/storage/team/firdavs.jpg"
+                                    alt="Mirxonov Firdavs"
+                                    class="w-full h-full object-contain bg-white p-4 rounded-t-3xl"
+                                />
                                 <div class="absolute inset-0 bg-black/40 group-hover:bg-black/60 transition-colors"></div>
                             </div>
                             <div class="p-8 text-center">
