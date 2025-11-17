@@ -16,7 +16,7 @@ const ciphers = [
         videos: [
             { title: 'How to Use the Caesar (Shift) Cipher', url: 'https://www.youtube.com/watch?v=l6jqKRXSShI' },
             { title: 'Caesar Cipher (Part 1)', url: 'https://www.youtube.com/watch?v=JtbKh_12ctg' },
-            { title: 'DIY Caesar Cypher!', url: 'https://www.youtube.com/watch?v=6jHLMVzp3ho' },
+            { title: 'DIY Caesar Cypher!', url: 'https://youtu.be/eL9AmU5afR0?si=BWqXgWnZDeDgzhbX' },
         ],
     },
     {
@@ -50,9 +50,9 @@ const ciphers = [
         darkColor: 'dark:from-green-400 dark:to-emerald-600',
         icon: 'M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z',
         videos: [
-            { title: 'Vigenere Cipher', url: 'https://www.youtube.com/watch?v=SkJcmCaHqS0' },
-            { title: 'How to use the Vigenere Cipher', url: 'https://www.youtube.com/watch?v=zNO4PTlg62k' },
-            { title: 'Vigenere Cipher Explained (with Example)', url: 'https://www.youtube.com/watch?v=RCkGauRMs2A' },
+            { title: 'Vigenere Cipher', url: 'https://youtu.be/SkJcmCaHqS0?si=RArX5efa4BoLiRKQ' },
+            { title: 'How to use the Vigenere Cipher', url: 'https://youtu.be/RCkGauRMs2A?si=K4MjhV2vlutzFfGC' },
+            { title: 'Vigenere Cipher Explained (with Example)', url: 'https://youtu.be/J1o2zo6HleY?si=hV4VSbLonJeLxnFh' },
         ],
     },
     {
@@ -62,9 +62,9 @@ const ciphers = [
         darkColor: 'dark:from-yellow-400 dark:to-amber-600',
         icon: 'M9 7h6m0 10v-3m-3 3h.01M9 17h.01M9 14h.01M12 14h.01M15 11h.01M12 11h.01M9 11h.01M7 21h10a2 2 0 002-2V5a2 2 0 00-2-2H7a2 2 0 00-2 2v14a2 2 0 002 2z',
         videos: [
-            { title: 'Hill Cipher (Encryption)', url: 'https://www.youtube.com/watch?v=-EQ8UomTrAQ' },
-            { title: 'Hill Cipher Explained (with Example)', url: 'https://www.youtube.com/watch?v=fffgRyr6PQ8' },
-            { title: 'Hill Cipher Encryption and Decryption', url: 'https://www.youtube.com/watch?v=6T46sgty4Mk' },
+            { title: 'Hill Cipher (Encryption)', url: 'https://youtu.be/-EQ8UomTrAQ?si=fugm4pKG4veIynmQ' },
+            { title: 'Hill Cipher Explained (with Example)', url: 'https://youtu.be/uRRYf2f7kYA?si=KX9xeoYOb1SBHKpM' },
+            { title: 'Hill Cipher Encryption and Decryption', url: 'https://youtu.be/JK3ur6W4rvw?si=eC4C2-Rl_hDVv-Tx' },
         ],
     },
     {
@@ -74,8 +74,8 @@ const ciphers = [
         darkColor: 'dark:from-red-400 dark:to-rose-600',
         icon: 'M7 16V4m0 0L3 8m4-4l4 4m6 0v12m0 0l4-4m-4 4l-4-4',
         videos: [
-            { title: 'Cryptography: The Beaufort Cipher', url: 'https://www.youtube.com/watch?v=PzjQH7aJNhs' },
-            { title: 'Beaufort Cipher Explained and Broken', url: 'https://www.youtube.com/watch?v=cMj7M16PGmU' },
+            { title: 'Cryptography: The Beaufort Cipher', url: 'https://youtu.be/cMj7M16PGmU?si=HmGWEhC8Lxf-NKxM' },
+            { title: 'Beaufort Cipher Explained and Broken', url: 'https://youtu.be/1AAXVwxLGpE?si=_IrSUGtMelnGJg7Z' },
         ],
     },
     {
@@ -85,8 +85,8 @@ const ciphers = [
         darkColor: 'dark:from-sky-400 dark:to-teal-500',
         icon: 'M11 4a2 2 0 114 0v1a1 1 0 001 1h3a1 1 0 011 1v3a1 1 0 01-1 1h-1a2 2 0 100 4h1a1 1 0 011 1v3a1 1 0 01-1 1h-3a1 1 0 01-1-1v-1a2 2 0 10-4 0v1a1 1 0 01-1 1H7a1 1 0 01-1-1v-3a1 1 0 00-1-1H4a2 2 0 110-4h1a1 1 0 001-1V7a1 1 0 011-1h3a1 1 0 001-1V4z',
         videos: [
-            { title: 'Autokey Cipher Explained', url: 'https://www.youtube.com/watch?v=1v4xX2e9XzI' },
-            { title: 'Autokey Cipher Encryption', url: 'https://www.youtube.com/watch?v=7bQf3J2qXg4' },
+            { title: 'Autokey Cipher Explained', url: 'https://youtu.be/ywRRfc2t6w8?si=_h30sv_S2Fgf0xpm' },
+            { title: 'Autokey Cipher Encryption', url: 'https://youtu.be/LdIqAtI-_CU?si=6Hg5O2ZPPgMbxKaR' },
         ],
     },
     {
@@ -96,8 +96,8 @@ const ciphers = [
         darkColor: 'dark:from-fuchsia-500 dark:to-violet-600',
         icon: 'M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z',
         videos: [
-            { title: 'Homophonic Substitution Cipher', url: 'https://www.youtube.com/watch?v=2s7L6L2A5qM' },
-            { title: 'Cryptography: Homophonic Substitution', url: 'https://www.youtube.com/watch?v=8Z4kKXJqQfY' },
+            { title: 'Homophonic Substitution Cipher', url: 'https://youtu.be/KoTZ_Jy84ew?si=MJ5XiUkhwBRu62Xd' },
+            { title: 'Cryptography: Homophonic Substitution', url: 'https://youtu.be/vNPfG0Ly6Go?si=gtrXENZPX25otVmx' },
         ],
     },
     {
@@ -107,8 +107,8 @@ const ciphers = [
         darkColor: 'dark:from-lime-400 dark:to-green-600',
         icon: 'M12 4v16m8-8H4',
         videos: [
-            { title: 'Affine Cipher Explained', url: 'https://www.youtube.com/watch?v=4b2jZ8d8f0E' },
-            { title: 'Affine Cipher Encryption and Decryption', url: 'https://www.youtube.com/watch?v=8Z4kKXJqQfY' },
+            { title: 'Affine Cipher Explained', url: 'https://youtu.be/iyESl17IqFQ?si=yGHfXaEW9oNRgpVm' },
+            { title: 'Affine Cipher Encryption and Decryption', url: 'https://youtu.be/ZRtTfVdjUgk?si=SHtU0kEsZ8FyDNr3' },
         ],
     },
     {
@@ -118,8 +118,8 @@ const ciphers = [
         darkColor: 'dark:from-purple-400 dark:to-pink-500',
         icon: 'M4 4h16v16H4V4z',
         videos: [
-            { title: 'Atbash Cipher Explained', url: 'https://www.youtube.com/watch?v=7GqL9o2nO2g' },
-            { title: 'Atbash Cipher Example', url: 'https://www.youtube.com/watch?v=9z5p5bN6o3U' },
+            { title: 'Atbash Cipher Explained', url: 'https://youtu.be/WYvHY7Kv3QU?si=2oYWD8rWjLF1i1Bh' },
+            { title: 'Atbash Cipher Example', url: 'https://youtu.be/atU0V98NCKc?si=bxtBDFaOnA8ZtOro' },
         ],
     },
     {
@@ -129,8 +129,8 @@ const ciphers = [
         darkColor: 'dark:from-rose-400 dark:to-red-500',
         icon: 'M12 2v20m-6-6h12',
         videos: [
-            { title: 'Scytale Cipher Explained', url: 'https://www.youtube.com/watch?v=4o7s8J0g2cM' },
-            { title: 'Ancient Greek Scytale Cipher', url: 'https://www.youtube.com/watch?v=X6o3o2k7XgQ' },
+            { title: 'Scytale Cipher Explained', url: 'https://youtu.be/-cooJOp7ah4?si=9TH6klDuNxbslS8G' },
+            { title: 'Ancient Greek Scytale Cipher', url: 'https://youtu.be/uU9zmMuAkJE?si=o-YeAePfDkLsE6We' },
         ],
     },
     {
@@ -140,8 +140,8 @@ const ciphers = [
         darkColor: 'dark:from-teal-400 dark:to-cyan-500',
         icon: 'M4 6h16M4 10h16M4 14h16M4 18h16',
         videos: [
-            { title: 'Columnar Transposition Cipher', url: 'https://www.youtube.com/watch?v=9z5p5bN6o3U' },
-            { title: 'How Columnar Transposition Works', url: 'https://www.youtube.com/watch?v=6T46sgty4Mk' },
+            { title: 'Columnar Transposition Cipher', url: 'https://youtu.be/N2Lv2QcehTQ?si=NoZrCIlVr7hkE9gK' },
+            { title: 'How Columnar Transposition Works', url: 'https://youtu.be/cPQXaYUMOjQ?si=1fwI5li6G6X6Zykq' },
         ],
     },
 ];
